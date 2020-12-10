@@ -2,19 +2,19 @@
 
 ****
 
-My name is Abner Lago and my pronouns are **she/her**. I study web development since 2018 and I'm always looking for new ways to improve. I'm currently coursing the high school integrated to a technical course of Internet Informatics and also coursing the LaunchBase Bootcampo at [Rocketseat](https://www.rocketseat.com.br).
+My name is Naomi Lago and my pronouns are **she/her**. I study web development since 2018 and I'm always looking for new ways to improve. I'm currently coursing the high school integrated to a technical course of Internet Informatics and also coursing the LaunchBase Bootcampo at [Rocketseat](https://www.rocketseat.com.br).
 
 🌱 I’m currently learning **Vanilla JavaScript**, **Node.js**, **React.js** for work and **PHP** just for fun.
 
 📫 **You can find me @**
 
-  - 👩🏼‍💻 [LinkedIn](https://www.linkedin.com/in/AbnerLago)
+  - 👩🏼‍💻 [LinkedIn](https://www.linkedin.com/in/NaomiLago)
 
-  - 💬 [Telegram](https://t.me/Abnerly)
+  - 💬 [Telegram](https://t.me/Naomity)
   
-  - 👥 [Facebook](https://www.facebook.com/lagoabner)
+  - 👥 [Facebook](https://www.facebook.com/naomi.iiij)
   
-  - 📩 [Email](mailto:abnerlago6@gmail.com)
+  - 📩 [Email](mailto:naomilago6@gmail.com)
 
 ⚡ **Fun facts**:
 
