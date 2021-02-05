@@ -14,7 +14,7 @@ My name is Naomi Lago and my pronouns are **she/her**. I study web development s
   
   - 👥 [Facebook](https://www.facebook.com/naomi.iiij)
   
-  - 📩 [Email](mailto:naomilago6@gmail.com)
+  - 📩 [Email](mailto:contato.naomilago@gmail.com)
 
 ⚡ **Fun facts**:
 
