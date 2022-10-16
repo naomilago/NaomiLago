@@ -10,7 +10,7 @@ My name is Naomi Lago and my pronouns are **she/her**. I study web development s
 
   - 🌎 [Website](https://naomilago.netlify.com/)
 
-  - 👩🏼‍💻 [LinkedIn](https://www.linkedin.com/in/naomilag0)
+  - 👩🏼‍💻 [LinkedIn](https://www.linkedin.com/in/naomilago)
 
   - 💬 [Telegram](https://t.me/naomilago)
   
