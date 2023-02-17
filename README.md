@@ -4,7 +4,7 @@
 
 My name is Naomi Lago and my pronouns are **she/her**. I study web development since 2018 and I'm always looking for new ways to improve. I'm currently undergraduating in Mathematics and working as Data Science Analyst at <a href='https://nestle.com'>Nestlé</a>. I'm also interested in Cybersecurity and Cloud.
 
-🌱 I’m currently studying **Python**, **Data Visualizatin**, **Machine Learning**.
+🌱 I’m currently studying **Python**, **Data Visualizatin**, **Machine Learning**, and focusing on **Natural Language Processing (NLP)**.
 
 📫 **You can find me @**
 
